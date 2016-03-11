@@ -1,14 +1,28 @@
+name: TEAMSPIRIT
+favicon: null
 layout_spectrum: 0.217508
+typography_spectrum: 0.11732
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.711061
-  lightness: 0.8866112
-  brandStrength: 1
   brandColors:
     - '#030403'
     - '#9BA399'
     - '#CFD8CF'
     - '#5D645D'
     - '#FBFFFF'
+  brandStrength: 1
+  lightness: 0.8866112
+  saturation: 0.711061
   rhythmicContrast: 0.7223416
-typography_spectrum: 0.8036518
-name: TEAMSPIRIT
+purpose: []
