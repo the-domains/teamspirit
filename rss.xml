@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[TEAMSPIRIT]]></title>
         <description><![CDATA[TEAMSPIRIT]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/teamspirit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 18:57:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 11 Mar 2016 22:16:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/teamspirit/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAgEYa3.img?h=400&w=618&m=6&q=60&o=f&l=f&x=555&y=157">]]></description>
+            <link>https://thegrid.ai/teamspirit/197f9f0b-7420-4724-8cfd-aaa59262eeb6/index.html</link>
+            <guid isPermaLink="false">197f9f0b-7420-4724-8cfd-aaa59262eeb6</guid>
+            <pubDate>Fri, 11 Mar 2016 22:16:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Videos For Rent Or Purchase | Bill Gallen | Fine Art]]></title>
             <description><![CDATA[<article><h1>Videos For Rent Or Purchase | Bill Gallen | Fine Art</h1><p>home | about | available paintings | workshops | contact Copyright © 2010 Bill Gallen | Fine Art. All Rights Reserved.</p></article>]]></description>
