@@ -1,0 +1,14 @@
+layout_spectrum: 0.217508
+color:
+  saturation: 0.711061
+  lightness: 0.8866112
+  brandStrength: 1
+  brandColors:
+    - '#030403'
+    - '#9BA399'
+    - '#CFD8CF'
+    - '#5D645D'
+    - '#FBFFFF'
+  rhythmicContrast: 0.7223416
+typography_spectrum: 0.8036518
+name: TEAMSPIRIT
